@@ -7,3 +7,6 @@
 [submodule "Information-Retrieval/Cosinus-Similarity"]
 	path = Information-Retrieval/Cosinus-Similarity
 	url = https://github.com/rhindottire/Cosinus-Similarity.git
+[submodule "Information-Retrieval/AdalFlow"]
+	path = Information-Retrieval/AdalFlow
+	url = https://github.com/rhindottire/AdalFlow.git
