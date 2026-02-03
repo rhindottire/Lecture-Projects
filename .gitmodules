@@ -1,12 +1,17 @@
 [submodule "Data-Mining"]
 	path = Data-Mining
-	url = .\\Data-Mining\\
-[submodule "FrameworkLab"]
-	path = FrameworkLab
-	url = https://github.com/rhindottire/FrameworkLab
-[submodule "Information-Retrieval/Cosinus-Similarity"]
-	path = Information-Retrieval/Cosinus-Similarity
-	url = https://github.com/rhindottire/Cosinus-Similarity.git
+	url = https://github.com/rhindottire/Data-Mining
+
 [submodule "Information-Retrieval/AdalFlow"]
 	path = Information-Retrieval/AdalFlow
-	url = https://github.com/rhindottire/AdalFlow.git
+	url = https://github.com/rhindottire/AdalFlow
+[submodule "Information-Retrieval/Cosinus-Similarity"]
+	path = Information-Retrieval/Cosinus-Similarity
+	url = https://github.com/rhindottire/Cosinus-Similarity
+
+[submodule "Data-Science"]
+	path = Data-Science
+	url = https://github.com/rhindottire/Data-Science
+[submodule "Framework-Lab"]
+	path = Framework-Lab
+	url = https://github.com/rhindottire/Framework-Lab
